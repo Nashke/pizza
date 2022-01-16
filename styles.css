@@ -19,12 +19,11 @@
 .welcome{
     text-align: center;
     font-family: 'Cormorant Garamond', serif;
-    padding-bottom: 30em;
-    margin-bottom: 30px;
+    font: bolder;
 }
 #backvideo{
     align-content: center;
     z-index: -1;
     padding-right: 3000em;
-    position: sticky;
 }
+
