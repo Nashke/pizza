@@ -2,6 +2,19 @@
     margin: 0;
     padding: 0;
 }
+.welcome{
+    text-align: center;
+    font-size: 500;
+    color: white;
+    font: caption;
+
+}
+h1{
+    color: white;
+}
+p{
+    color: red;
+}
 
 .pizza-img{
     width: 200px;
@@ -14,5 +27,13 @@
     margin: 30px;
 }
 #mush{
-    width: 250px;
+    width: 280px;
+}
+.container1{
+    text-align: center;
+    background-image: url(assets/mush.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
