@@ -2,28 +2,11 @@
     margin: 0;
     padding: 0;
 }
-
-.header{
-    height: 100px;
-
-}
-.navbar{
-    box-shadow: 0 5px;
-    color: #000;
-}
-
-.logo{
-     height: 40px;
-     padding:2px ;    
-}
-.welcome{
+.container1{
     text-align: center;
-    font-family: 'Cormorant Garamond', serif;
-    font: bolder;
+    align-items: center;
+    background-image: url(assets/pizza.png);
+    color: honeydew;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-#backvideo{
-    align-content: center;
-    z-index: -1;
-    padding-right: 3000em;
-}
-
