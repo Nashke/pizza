@@ -2,11 +2,17 @@
     margin: 0;
     padding: 0;
 }
-.container1{
-    text-align: center;
-    align-items: center;
-    background-image: url(assets/pizza.png);
-    color: honeydew;
-    background-repeat: no-repeat;
-    background-size: cover;
+
+.pizza-img{
+    width: 200px;
+    height: 200px;
+
+}
+.pizza1{
+    border: 1px; color: black;
+    border-radius: 10px;
+    margin: 30px;
+}
+#mush{
+    width: 250px;
 }
