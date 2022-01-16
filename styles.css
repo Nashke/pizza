@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+
+}
+.navbar{
+    box-shadow: 0 5px;
+    color: #000;
+}
+
+.logo{
+     height: 48px;
+     padding: 2px 10px;    
+}
