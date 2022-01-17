@@ -17,4 +17,6 @@ function purchase(event){
     var purchaseE1 = purchase.parentElement
     console.log(purchaseE1)
     var imgname = purchaseE1.children[0].src;
+    var imgname = purchaseE1.children[1].innerText;
+    var imgname = purchaseE1.children[2].innerText;
 }
