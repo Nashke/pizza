@@ -19,4 +19,10 @@ function purchase(event){
     var imgname = purchaseE1.children[0].src;
     var imgname = purchaseE1.children[1].innerText;
     var imgname = purchaseE1.children[2].innerText;
+    console.log(imgname , titlename , price )
+}
+
+var tbody = document.getElementsByTagNameNS('tbody')[0];
+function purchase ( imgname ,titlename , price ){
+    var createELement = document.createElement ('tr')
 }
